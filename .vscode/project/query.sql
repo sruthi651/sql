@@ -1,0 +1,1 @@
+SELECT * FROM fact LIMIT 10;
