@@ -68,7 +68,7 @@ Identify the highest-paying remote Data Analyst jobs.
 - LIMIT
 - LEFT JOIN
 
-📄 **File:** [1_top_paying_jobs.sql](My_project/1_top_paying_jobs.sql)
+📄 **File:** [1_top_paying_jobs.sql](1_top_paying_jobs.sql)
 
 ---
 
@@ -85,7 +85,7 @@ Determine which skills employers expect for the highest-paying Data Analyst posi
 - CTEs
 - Filtering
 
- 📄 **File:** [2_top_paying_job_skills.sql](My_project/2_top_paying_job_skills.sql)
+ 📄 **File:** [2_top_paying_job_skills.sql](2_top_paying_job_skills.sql)
 
 ---
 
@@ -101,7 +101,7 @@ Identify the technical skills that appear most frequently across job postings.
 - GROUP BY
 - ORDER BY
 
-📄 **File:** [3_top_demand_skills.sql](My_project/3_top_demand_skills.sql)
+📄 **File:** [3_top_demand_skills.sql](3_top_demand_skills.sql)
 
 ---
 
@@ -117,7 +117,7 @@ Find which technical skills command the highest average salary.
 - ROUND()
 - Aggregate Functions
 
-📄 **File:** [4_top_skills_based_on_salary.sql](My_project/4_top_skills_based_on_salary.sql)
+📄 **File:** [4_top_skills_based_on_salary.sql](4_top_skills_based_on_salary.sql)
 
 
 ---
@@ -138,7 +138,7 @@ Identify skills that provide both:
 - Multiple LEFT JOINs
 - GROUP BY
 
-📄 **File:** [5_optimal_skills.sql](My_project/5_optimal_skills.sql)
+📄 **File:** [5_optimal_skills.sql](5_optimal_skills.sql)
 
 ---
 
